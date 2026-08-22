@@ -1,4 +1,4 @@
-// Equicord 3347fa640d93f0872313c109f9b7cc807d5a7c10
+// Equicord b47345336eb4afbbe6eb5a71d4b2ef096dc282af
 // Standalone: true
 // Platform: Universal
 // Updater Disabled: false
